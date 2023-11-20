@@ -1,2 +1,2 @@
 # Kata-solutions-codewars
-Here i post the solutions in found 
+Here i post the solutions i found 
