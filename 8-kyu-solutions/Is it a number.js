@@ -6,7 +6,7 @@ isDigit("3")
 isDigit("  3  ")
 isDigit("-3.23")
 
-should return false:
+sshould return false:
 
 isDigit("3-4")
 isDigit("  3   5")
