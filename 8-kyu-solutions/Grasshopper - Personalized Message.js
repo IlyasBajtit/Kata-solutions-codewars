@@ -6,7 +6,7 @@ Use conditionals to return the proper message:
 
 case	              return
 name equals owner 	'Hello boss'
-otherwise 	         'Hello guest' */
+otherwise 	         'ello guest' */
 
 function greet (name, owner) {
     return `Hello ${name==owner?'boss':'guest'}`
